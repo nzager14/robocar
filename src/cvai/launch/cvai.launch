@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <node pkg="cvai" type="line_tracker.py" name="PID_publisher_node" output="screen"> </node>
+    <node pkg="cvai" type="pub_PWM.py" name="pwm_publisher_node" output="screen"> </node>
+</launch>

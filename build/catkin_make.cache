@@ -1,0 +1,2 @@
+camera_publisher_pkg:cvai:pid:ros-pwm-pca9685/pwm_pca9685
+-DCATKIN_DEVEL_PREFIX=/home/jetson/projects/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/projects/catkin_ws/install -G Unix Makefiles
